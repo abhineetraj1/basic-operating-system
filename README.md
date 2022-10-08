@@ -1,5 +1,6 @@
 # Basic Operating system
-This is basic operating system, with kernel made in C.
+<p>This is basic operating system, with kernel made in C.</p>
+<br><br>
 <img style="width: 40%;border-radius: 8px;" src="1.png">
 <img style="width: 40%;border-radius: 8px;" src="2.png">
 
