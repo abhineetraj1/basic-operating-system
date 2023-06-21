@@ -14,12 +14,17 @@
 *   grub-mkrescue - Make a GRUB rescue image, this package internally calls the xorriso functionality to build an iso image.
 *   VMware
 
+## Prerequisite command
+```bash
+sudo apt install gcc grub-common xorriso -y
+```
+
 ## Execution:-
 
 
 ### For linux
 *   Open terminal and run following command:-
-```
+```bash
 ./run.sh
 ```
 
