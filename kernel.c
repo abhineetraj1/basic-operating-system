@@ -68,6 +68,6 @@ void KERNEL_MAIN()
   printNewLine();
   printString("Bye world");
   printNewLine();
-  printString("Thank you!!")
+  printString("Thank you!!");
   printNewLine();
 }
